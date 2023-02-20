@@ -1,0 +1,41 @@
+pwd
+mkdir group33
+cd group33
+mkdir dir1
+mkdir dir2
+mkdir dir3
+cd dir1
+touch 1.txt
+touch 2.txt
+touch 3.txt
+touch 4.json
+touch 5.json
+mkdir dir1.1
+mkdir dir1.2
+mkdir dir1.3
+ls
+cat >>1.txt
+cat >> 1.txt
+cat 1.txt
+cd group33/
+cd ..
+cd dir1
+mv 1.txt dir1.1/1.txt
+mv 4.json dir1.1/4.json
+cp 2.txt dir1/2.txt
+cp 2.txt dir1.2/2.txt
+cp 5.json dir1.2/5.json
+find dir1 -name "*4*"
+find . -name "*json*"
+find . type d -name "d*"
+find . type f -name "1*"
+tail dir1/dir1.1/1.txt
+head -n2 dir1/dir1.1/1.txt
+tail -n2 dir1/dir1.1/1.txt
+less dir1/dir1.1/1.txt
+date
+date +%T
+date +%R
+date +%X
+date +%D
+
