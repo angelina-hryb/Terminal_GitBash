@@ -1,0 +1,13 @@
+cd
+mkdir
+touch
+clear
+cat
+ls -la
+mv
+find
+grep
+tail
+vim
+pwd
+rm
