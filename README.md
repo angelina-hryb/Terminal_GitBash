@@ -1,1 +1,1 @@
-# Homework done here on Git Bash(❁´◡`❁)
+# Homework done here on Git Bash (❁´◡`❁)
